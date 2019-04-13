@@ -21,6 +21,6 @@ The code for flask is contained in the file named app.py and the html files are 
 
 <br>
 
- It is recommended to use a virtual environment while using this project.
+Hope you liked this application ! 
 
  <br> 
